@@ -14,7 +14,7 @@
   <li>Provide actionable insights into optimizing gift-based marketing strategies.</li>
 </ul>
 
-<h3>Key Features</h3>
+<h3>Key Features and Methodology </h3>
 <ul>
   <li>Exploratory Data Analysis (EDA)</li>
   <li>Bandwidth Selection Analysis</li>
@@ -22,9 +22,18 @@
   <li>Bayesian RDD Analysis</li>
 </ul>
 
+<h3>Key Findings</h3>
+<ul>
+  <li>From both our Frequentist and Bayesian model, we found that there is a positive impact in customer spending based on receiving a surprise gift (approximately $19.11).
+  </li>
+  
+</ul>
+
 
 <h2>License</h2>
 <p>This project is licensed under the Apache License 2.0. See the LICENSE file for more details.</p>
+<h2>Notes</h2>
+<p> This team was provided with sample data and the public nature of this data and project is under review.</p>
 
 <h2>Acknowledgments</h2>
 <p>This project was completed as part of a challenge project with The Estée Lauder Companies. Special thanks to all involved for their guidance.</p>
