@@ -29,12 +29,14 @@
 
 <h3>Individual Contributions</h3>
 <ul>
-  <li> EDA: [Sonal](https://github.com/s-bhatia1216), [Emily](https://github.com/emilyp6)</li>
-  <li> Frequentist Model, Frequentist Analysis: [Eden](https://github.com/edenhandom), [Zainab](https://github.com/zzaneer086)</li>
-  <li> Bayesian Model, Bayesian Analysis: [Eden](https://github.com/edenhandom), [Sonal](https://github.com/s-bhatia1216)</li>
-  <li> Bandwith Selection and Analysis: [Emily](https://github.com/emilyp6), [Zainab](https://github.com/zzaneer086)</li>
-  <li> Comparison Between Models: [Sonal](https://github.com/s-bhatia1216), [Zainab](https://github.com/zzaneer086)</li>
-  </li>
+  <li> EDA: <a href="https://github.com/s-bhatia1216">Sonal</a>, <a href="https://github.com/emilyp6">Emily</a></li>
+  <li> Frequentist Model, Frequentist Analysis: <a href="https://github.com/edenhandom">Eden</a>, <a href="https://github.com/zzaneer086">Zainab</a></li>
+  <li> Bayesian Model, Bayesian Analysis: <a href="https://github.com/edenhandom">Eden</a>, <a href="https://github.com/s-bhatia1216">Sonal</a></li>
+  <li> Bandwidth Selection and Analysis: <a href="https://github.com/emilyp6">Emily</a>, <a href="https://github.com/zzaneer086">Zainab</a></li>
+  <li> Comparison Between Models: <a href="https://github.com/s-bhatia1216">Sonal</a>, <a href="https://github.com/zzaneer086">Zainab</a></li>
+</ul>
+
+
   
 </ul>
 
