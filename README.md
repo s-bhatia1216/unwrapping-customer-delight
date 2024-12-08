@@ -26,6 +26,15 @@
 <ul>
   <li>From both our Frequentist and Bayesian model, we found that there is a positive impact in customer spending based on receiving a surprise gift (approximately $19.11).
   </li>
+
+<h3>Individual Contributions</h3>
+<ul>
+  <li> EDA: [Sonal](https://github.com/s-bhatia1216), [Emily](https://github.com/emilyp6)</li>
+  <li> Frequentist Model, Frequentist Analysis: [Eden](https://github.com/edenhandom), [Zainab](https://github.com/zzaneer086)</li>
+  <li> Bayesian Model, Bayesian Analysis: [Eden](https://github.com/edenhandom), [Sonal](https://github.com/s-bhatia1216)</li>
+  <li> Bandwith Selection and Analysis: [Emily](https://github.com/emilyp6), [Zainab](https://github.com/zzaneer086)</li>
+  <li> Comparison Between Models: [Sonal](https://github.com/s-bhatia1216), [Zainab](https://github.com/zzaneer086)</li>
+  </li>
   
 </ul>
 
@@ -33,7 +42,7 @@
 <h2>License</h2>
 <p>This project is licensed under the Apache License 2.0. See the LICENSE file for more details.</p>
 <h2>Notes</h2>
-<p> This team was provided with sample data and the public nature of this data and project is under review.</p>
+<p> This team was provided with sample data and this data is available for download in our Raw Data Set folder. To use this data, you will need to download it as an excel sheet to your local device and upload it in the code.</p>
 
 <h2>Acknowledgments</h2>
 <p>This project was completed as part of a challenge project with The Estée Lauder Companies. Special thanks to all involved for their guidance.</p>
